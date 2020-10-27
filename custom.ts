@@ -88,7 +88,7 @@ namespace hoc2020 {
     /**
      * Agent move
      */
-    //% block="agent2 move %d by %n"
+    //% block="agent move %d by %n"
     //% n.defl=1 
     export function moveAgent(d: SixDirection, n: number): void{
 
