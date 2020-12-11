@@ -1,0 +1,13 @@
+{
+  "hoc2020.acceptGift": "Dá hráčovi sadenicu stromčeka",
+  "hoc2020.agentClimb": "Agent sa posúva nahor",
+  "hoc2020.flipLever": "Agent vykoná akciu pred sebou",
+  "hoc2020.leadRavager": "Naveďte ničitela",
+  "hoc2020.moveAgent": "Pohne agentom",
+  "hoc2020.placeFence": "Agent umiestni železné tyče",
+  "hoc2020.placePlanks": "Agent umiestni drevené dosky",
+  "hoc2020.placeRails": "Agent pod seba umiestni koľajnice",
+  "hoc2020.tillSoil": "Agent obrába pôdu",
+  "hoc2020.turnAgent": "Otočí agenta",
+  "hoc2020Different.customRepeatLoop": "Opakuj kód určený počet krát"
+}
